@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Mark Boamah",
+    "occupation": "Full stack developer",
+    "description": "Full Stack Developer",
+    "image": "pic1.png",
+    "bio": "My name is Mark, I'm a Full Stack Developer. Currently I'm a student of AP Hogescool ",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "markboamah24@gmail.com",
+    "phone": "+32 46 515 3562",
+    "address": {
+      "street": "Rietschoorvelden 277",
+      "city": "Antwerp",
+      "state": "Belgium",
+      "zip": "2170"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1QJP_HMZWXxKpqd1T928lMsf-CQsYG125/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Agapephaino",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mark-boamah-81755212a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com//",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/prophlin24",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "AP Unviersity College",
+        "degree": "Associate Bachelor in Computer Science",
+        "graduated": "June 2019",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "AP Unviersity College",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "June 2022",
+        "description": "*****"
+      }
+    ],
+    "work": [
+      {
+        "company": "Digipolis Antwerpen",
+        "title": "Development Team (ASP.NET & React)",
+        "years": "April 2019 - June 2019",
+        "description": "Internship."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "Angular",
+        "level": "75%"
+      },
+      {
+        "name": "ASP.NET",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Store locator web app",
+        "category": "Store locator (Javascript, HTML, CSS)",
+        "image": "mapproj.PNG",
+        "url": "https://markstorelocatorapp.imfast.io/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": "Eric S. Raymond"
+      },
+      {
+        "text": "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter",
+        "user": ""
+      }
+    ]
+  }
+}
